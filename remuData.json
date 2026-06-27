@@ -3,7 +3,7 @@
     "id": "culture001",
     "title": "温泉に入る前になぜ体を洗うの？",
     "context": "日本の温泉を初めて利用する外国人が驚くことの一つが、湯船に入る前に必ず体を洗うというルールです。温泉の湯船は体を洗う場所ではなく、温かいお湯に浸かってリラックスするための場所と考えられています。そのため、利用者全員が気持ちよく温泉を楽しめるよう、事前にシャワーや洗い場で体の汚れを落とします。また、タオルを湯船に入れないことや、大きな声で騒がないこともマナーの一つです。温泉は日本の伝統文化の一部であり、心と体を癒やす特別な空間として親しまれています。こうしたルールを理解することで、より快適に日本の温泉文化を体験できるでしょう。",
-    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/OnsenLofi.jpg?token=GHSAT0AAAAAAEBDKVGBZBYWPUJOMDDMMMX42R722RQ"
+    "image": "https://github.com/Shobhan-dev/Remu/blob/main/RemuImageC/OnsenLofi.jpg?raw=true"
   },
   {
     "id": "culture002",
@@ -15,31 +15,31 @@
     "id": "culture003",
     "title": "日本のコンビニはなぜこんなに便利なの？",
     "context": "日本のコンビニエンスストアは、単なる買い物の場所ではありません。飲み物やお弁当を購入できるだけでなく、公共料金の支払い、宅配便の発送、チケットの購入、ATMの利用など、さまざまなサービスを提供しています。多くの店舗が24時間営業しているため、必要なときにいつでも利用できるのも大きな特徴です。また、商品の品質が高く、新商品も頻繁に登場します。そのため、外国人旅行者の中には毎日のようにコンビニを利用する人も少なくありません。日本の生活を支える重要な存在と言えるでしょう。",
-    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/StoreLofi.jpg?token=GHSAT0AAAAAAEBDKVGBNREMEJVOBIIAKT362R724YA"
+    "image": "https://github.com/Shobhan-dev/Remu/blob/main/RemuImageC/StoreLofi.jpg?raw=true"
   },
   {
     "id": "culture004",
     "title": "神社とお寺の違いとは？",
     "context": "日本には神社とお寺が数多く存在しますが、その違いを知らない外国人も少なくありません。神社は神道の施設であり、鳥居があることが特徴です。一方、お寺は仏教の施設で、仏像やお墓があることが一般的です。参拝方法にも違いがあり、神社では二礼二拍手一礼、お寺では静かに手を合わせて祈ることが多いです。日本人の多くは特定の宗教を強く意識していませんが、人生の節目や行事で神社やお寺を訪れます。この独特な宗教文化は、日本を理解する上で興味深いポイントの一つです。",
-    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/ShrineDarkLofi.jpg?token=GHSAT0AAAAAAEBDKVGBD47KXGZM76AQR5T22R725ZQ"
+    "image": "https://github.com/Shobhan-dev/Remu/blob/main/RemuImageC/ShrineDarkLofi.jpg?raw=true"
   },
   {
     "id": "culture005",
     "title": "なぜ日本ではチップを渡さないの？",
     "context": "多くの国ではレストランやホテルでチップを渡す習慣がありますが、日本では一般的ではありません。日本では、良いサービスを提供することが仕事の一部と考えられているため、追加のお金を渡す必要がないのです。むしろ、チップを渡そうとすると店員が戸惑ったり、返そうとしたりすることもあります。サービス料が必要な場合は最初から料金に含まれていることが多く、利用者は表示された金額を支払うだけで問題ありません。この文化を知っておくと、日本旅行中の戸惑いを減らすことができます。",
-    "image": "http://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/TippingLofi.jpg?token=GHSAT0AAAAAAEBDKVGBZCIKXKH2PEPUF2BO2R726EA"
+    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/TippingLofi.jpg"
   },
   {
     "id": "culture006",
     "title": "トイレ用スリッパはなぜ必要なの？",
     "context": "日本の家庭や旅館では、トイレ専用のスリッパが置かれていることがあります。これは、トイレの床と生活空間を区別し、清潔さを保つためです。トイレに入る際は専用スリッパに履き替え、出るときには元のスリッパに戻します。外国人の中には履き替えを忘れてそのまま歩いてしまう人もいますが、日本では少し恥ずかしい失敗として知られています。この習慣は日本人の清潔に対する意識の高さを表しており、日常生活の中に根付いた文化の一つです。",
-    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/SlipperLofi.jpg?token=GHSAT0AAAAAAEBDKVGAWAZKHE3EW4E5PF4W2R726OQ"
+    "image": "https://github.com/Shobhan-dev/Remu/blob/main/RemuImageC/SlipperLofi.jpg?raw=true"
   },
   {
     "id": "culture007",
     "title": "日本人がお辞儀をする理由",
     "context": "お辞儀は日本を象徴する文化の一つです。挨拶や感謝、謝罪、敬意を示す際に使われ、場面によって角度や長さが異なります。軽い会釈から深いお辞儀までさまざまな種類があり、相手への敬意を表現する大切な方法となっています。ビジネスの場面では特に重要視され、初対面の人との関係を円滑にする役割も果たします。外国人にとっては少し難しく感じるかもしれませんが、基本的な挨拶として軽くお辞儀をするだけでも好印象を与えることができます。",
-    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/BowingLofi.jpg?token=GHSAT0AAAAAAEBDKVGATLQZPNXPO3AJRFAI2R726YA"
+    "image": "https://raw.githubusercontent.com/Shobhan-dev/Remu/refs/heads/main/RemuImageC/BowingLofi.jpg"
   },
   {
     "id": "culture008",
