@@ -25,5 +25,19 @@
     "context": "日本の電車では、多くの人が静かに過ごしていることに外国人は驚くかもしれません。通勤や通学で利用する人が多いため、周囲に迷惑をかけないことが大切だと考えられています。電話での通話は控えられ、会話も比較的小さな声で行われます。また、車内で眠る人や読書をする人も多く、静かな環境が自然に保たれています。このようなマナーは法律ではなく、人々の思いやりや公共意識によって支えられています。日本の電車文化を理解すると、移動中も快適に過ごせるでしょう。",
     "image": "TrainLof"
     "country":"Japan"
+  },
+    {
+    "id": "Usa1",
+    "title": "National parks",
+    "context": "One of the defining features of the United States is its extensive network of national parks, created to protect the country's diverse natural landscapes. From mountains and forests to deserts and canyons, these parks preserve places of exceptional beauty and provide opportunities for people to experience nature.For many Americans, visiting national parks is a family tradition. During weekends or holidays, people enjoy hiking, camping, wildlife watching, and scenic drives. Spending time outdoors is often seen as a way to relax, stay active, and appreciate the natural environment.Visitors are expected to protect the parks by staying on marked trails, disposing of waste properly, and avoiding disturbing wildlife. These rules help preserve the parks for future generations.National parks are more than tourist attractions. They reflect the American belief that nature is an important part of the country's heritage and should be carefully protected. Understanding this tradition helps visitors appreciate why outdoor recreation and environmental conservation hold a special place in American culture.",
+    "image": "https://cdn.jsdelivr.net/gh/Shobhan-dev/Remu@main/RemuImageC/usnationalparkcomp.jpg",
+    "country":"USA"
+  },
+  {
+    "id": "Usa2",
+    "title": "Road trips",
+    "context": "One of the most iconic travel experiences in the United States is the road trip. Because the country covers a vast area with diverse landscapes, traveling by car has become an important part of American culture. Improvements in highways during the 20th century made long-distance driving easier, encouraging families and friends to explore different parts of the country.For many Americans, a road trip is more than simply reaching a destination. It is an opportunity to enjoy changing scenery, visit small towns, stop at local attractions, and spend quality time together. During school vacations or holidays, many families travel by car instead of flying, creating memories through the journey itself.Road trips also reflect the value Americans place on independence and personal freedom. Travelers can choose their own routes, make spontaneous stops, and explore places at their own pace. Along the way, they often visit scenic viewpoints, roadside diners, or national parks.The tradition of road trips has become a symbol of exploration and adventure in the United States. Understanding this culture helps visitors appreciate why driving across the country is considered a uniquely American experience, representing both the nation's vast geography and its spirit of freedom.",
+    "image": "https://cdn.jsdelivr.net/gh/Shobhan-dev/Remu@main/RemuImageC/usroadtripcomp.jpg",
+    "country":"USA"
   }
 ]
